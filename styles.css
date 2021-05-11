@@ -258,3 +258,22 @@ h4 {
   font-style: italic;
   font-weight: bold;
 }
+aside.announcement {
+  background: #5aba59;
+  margin: 1em 0;
+  padding: .1em 1em;
+  border-radius: 5px;
+  color: #333;
+}
+
+aside.announcement .bold{
+  font-weight: bold;
+}
+
+aside.announcement a {
+  color: #eee;
+  text-decoration: underline;
+}
+aside.announcement span.megaphone {
+  font-size: 1.5em;
+}

@@ -281,3 +281,12 @@ aside.announcement a {
 aside.announcement span.megaphone {
   font-size: 1.5em;
 }
+
+span.paper-extra-links a {
+  font-size: 0.8em;
+  font-weight: normal;
+}
+span.paper-extra-links {
+  color: #666;
+  font-weight: normal;
+}
